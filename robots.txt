@@ -1,7 +1,7 @@
 User-agent: Googlebot
 Allow: /
 User-agent: Slurp
-Allow: /
+Disallow: /
 User-Agent: msnbot
 Disallow: 
 User-agent: ia_archiver
