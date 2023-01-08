@@ -775,3 +775,4 @@ Disallow: /files/
 Disallow: /week/
 Disallow: /year/
 Disallow: /searchurl/
+Disallow: /nullze/
